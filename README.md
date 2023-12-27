@@ -16,5 +16,4 @@ Projeto originalmente desenvolvido por Leonaro Vargas.
 - [x] Uso de cores gradientes no texto
 
 # Link
-https://luanvg.github.io/
-
+(https://LuanVG.github.io/Guardioes-da-galaxia/)https://LuanVG.github.io/Guardioes-da-galaxia/
