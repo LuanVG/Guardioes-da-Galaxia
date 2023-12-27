@@ -15,5 +15,5 @@ Projeto originalmente desenvolvido por Leonaro Vargas.
 - [x] Carregamento de fonte externa
 - [x] Uso de cores gradientes no texto
 
-# Link
+## Link do Projeto
 (https://LuanVG.github.io/Guardioes-da-galaxia/)https://LuanVG.github.io/Guardioes-da-galaxia/
