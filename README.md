@@ -15,7 +15,4 @@ Projeto originalmente desenvolvido por Leonaro Vargas.
 - [x] Carregamento de fonte externa
 - [x] Uso de cores gradientes no texto
 
-## Layout
-![gif do projeto](./assets/guardioes.gif)
-
 
