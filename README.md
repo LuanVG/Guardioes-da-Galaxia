@@ -1,5 +1,5 @@
 # Guardiões da Galáxia
-![Guardiões da Galáxia](./assets/Guardioes-da-galaxia.png)
+![Guardiões da Galáxia](./assets/preview.png)
 Projeto originalmente desenvolvido por Leonaro Vargas.
 
 ## 🚀 Tecnologias usadas no projeto
